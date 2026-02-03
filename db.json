@@ -4,28 +4,27 @@
       "id": 1,
       "no_of_likes": 100,
       "no_of_comments": 50,
-      "no_of_shares": 450,
+      "no_of_shares": 450
     },
     {
       "id": 2,
       "no_of_likes": 200,
       "no_of_comments": 540,
-      "no_of_shares": 750,
+      "no_of_shares": 750
     }
   ],
   "profiles": [
     {
       "id": 1,
       "name": "typicode",
-      "follwers": 200,
-      "following": 1420,
+      "followers": 200,
+      "following": 1420
     },
     {
       "id": 2,
       "name": "chekka",
-      "follwers": 250,
-      "following": 140,
+      "followers": 250,
+      "following": 140
     }
   ]
 }
-
